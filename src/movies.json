@@ -1,0 +1,230 @@
+[
+    {
+        "release_date": "2022-05-04",
+        "adult": false,
+        "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "vote_count": 723,
+        "original_language": "en",
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "id": 453395,
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "video": false,
+        "vote_average": 7.6,
+        "poster_path": "/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg",
+        "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+        "popularity": 5201.375,
+        "media_type": "movie"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wtbRUVxQVvU6QIJH1oGLDThJLib.jpg",
+        "genre_ids": [
+            35,
+            28
+        ],
+        "id": 785985,
+        "original_language": "fr",
+        "original_title": "Loin du périph",
+        "overview": "Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.",
+        "poster_path": "/h5hVeCfYSb8gIO0F41gqidtb0AI.jpg",
+        "release_date": "2022-05-06",
+        "title": "The Takedown",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 25,
+        "popularity": 66.577,
+        "media_type": "movie"
+    },
+    {
+        "poster_path": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+        "video": false,
+        "vote_average": 7.8,
+        "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+        "release_date": "2022-03-17",
+        "vote_count": 250,
+        "adult": false,
+        "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+        "title": "The Bad Guys",
+        "genre_ids": [
+            16,
+            35,
+            28,
+            10751,
+            80
+        ],
+        "id": 629542,
+        "original_language": "en",
+        "original_title": "The Bad Guys",
+        "popularity": 3067.401,
+        "media_type": "movie"
+    },
+    {
+        "id": 335787,
+        "adult": false,
+        "backdrop_path": "/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "original_language": "en",
+        "original_title": "Uncharted",
+        "poster_path": "/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+        "vote_count": 1716,
+        "video": false,
+        "vote_average": 7.2,
+        "title": "Uncharted",
+        "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+        "release_date": "2022-02-10",
+        "popularity": 5928.925,
+        "media_type": "movie"
+    },
+    {
+        "id": 778106,
+        "original_language": "en",
+        "original_title": "Along for the Ride",
+        "poster_path": "/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg",
+        "video": false,
+        "vote_average": 7.2,
+        "overview": "The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted.",
+        "release_date": "2022-05-06",
+        "title": "Along for the Ride",
+        "adult": false,
+        "backdrop_path": "/xqlxMhXkLGHHDiFwVYzYTayUFyA.jpg",
+        "vote_count": 20,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "popularity": 59.83,
+        "media_type": "movie"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8F4XgaIXidVLqmJGYFP9jHH08Y.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35
+        ],
+        "id": 678287,
+        "original_language": "en",
+        "original_title": "Marmaduke",
+        "overview": "Great Dane Marmaduke epitomizes the overgrown lapdog, with an irascible streak and a penchant for mischief that is tempered with a deep sense of love and responsibility for his human family, the Winslows. The new animation is set in the world of elite dog shows, rife divas, rivalries and slapstick comedy.",
+        "poster_path": "/cyNivzjzniErFkzq45ZEWOKQMgY.jpg",
+        "release_date": "2022-04-28",
+        "title": "Marmaduke",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2,
+        "popularity": 25.882,
+        "media_type": "movie"
+    },
+    {
+        "release_date": "2022-04-27",
+        "adult": false,
+        "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+        "title": "365 Days: This Day",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "original_language": "pl",
+        "original_title": "365 Days: This Day",
+        "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+        "id": 829557,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 307,
+        "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+        "popularity": 2626.746,
+        "media_type": "movie"
+    },
+    {
+        "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "video": false,
+        "vote_average": 7.8,
+        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "release_date": "2022-03-01",
+        "vote_count": 4314,
+        "adult": false,
+        "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+        "title": "The Batman",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 414906,
+        "original_language": "en",
+        "original_title": "The Batman",
+        "popularity": 5709.032,
+        "media_type": "movie"
+    },
+    {
+        "video": false,
+        "vote_average": 8.1,
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "release_date": "2021-12-15",
+        "adult": false,
+        "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+        "vote_count": 12476,
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "title": "Spider-Man: No Way Home",
+        "original_language": "en",
+        "original_title": "Spider-Man: No Way Home",
+        "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "id": 634649,
+        "popularity": 4511.964,
+        "media_type": "movie"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4rON0QFWpHtZ9bEtfdE68TFbfGr.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "original_language": "en",
+        "original_title": "Escape the Field",
+        "poster_path": "/3qDumKWwi3YZacMI9u2UoPHWVDi.jpg",
+        "vote_count": 11,
+        "video": false,
+        "vote_average": 6.1,
+        "title": "Escape the Field",
+        "overview": "Six strangers suddenly awaken in a remote, endless cornfield. Stripped of their possessions, they are left with only six items: a gun with a single bullet, matches, a lantern, a knife, a compass, and a flask of water. As mysterious sirens blare in the distance and traps appear at every turn, the group realizes it’s been plunged into a cat-and-mouse game with an unseen evil, and survival depends upon solving a diabolical and deadly puzzle.",
+        "release_date": "2022-05-06",
+        "id": 739643,
+        "popularity": 78.59,
+        "media_type": "movie"
+    },
+    {
+        "id": 763285,
+        "adult": false,
+        "backdrop_path": "/192vHmAPbk5esL34XMKZ1YLGFjr.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "original_language": "en",
+        "original_title": "Ambulance",
+        "poster_path": "/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",
+        "title": "Ambulance",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 468,
+        "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+        "release_date": "2022-03-16",
+        "popularity": 3735.135,
+        "media_type": "movie"
+    }
+]
